@@ -1,0 +1,11 @@
+This program can be used to read and write data as text, binary, and objects.  It is an eclipse project, and best viewed there.
+
+The only arguments are the flags defined below.  Data is hard-coded into the main class, and can be changed to test different data.
+
+To run, call the application from the command line using the arguments below, or use a run configuration in eclipse.
+
+Usage:
+--help - show these instructions
+--text - read and write a file using text format
+--binary - read and write a file using binary format
+--object - read and write a file as an object stream
